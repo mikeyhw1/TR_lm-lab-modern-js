@@ -22,17 +22,18 @@ We recommend working through the files in the order below:
 
 2. [Variables](modern_javascript_exercises/variables/let_vs_var.md)
 
-3. [Default Parameters](modern_javascript_exercises/default_parameters/default_parameters.md) 
+3. [Default Parameters](modern_javascript_exercises/default_parameters/default_parameters.md)
 
-4. [Destructuring Arrays](modern_javascript_exercises/destructuring_arrays/destructuring_arrays.md) 
+4. [Destructuring Arrays](modern_javascript_exercises/destructuring_arrays/destructuring_arrays.md)
 
 5. [Destructuring Objects](modern_javascript_exercises/destructuring_objects/destructuring_objects.md)
+   // NEXT:
 
-6. [Rest Parameters](modern_javascript_exercises/rest_parameters/rest_parameters.md) 
+6. [Rest Parameters](modern_javascript_exercises/rest_parameters/rest_parameters.md)
 
-7. [Spread Syntax](modern_javascript_exercises/spread_syntax/spread_syntax.md) 
+7. [Spread Syntax](modern_javascript_exercises/spread_syntax/spread_syntax.md)
 
-8. [Template Literals](modern_javascript_exercises/template_literals/template_literals.md) 
+8. [Template Literals](modern_javascript_exercises/template_literals/template_literals.md)
 
 9. [Ternaries](modern_javascript_exercises/ternaries/ternaries.md)
 
