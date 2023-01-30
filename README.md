@@ -27,7 +27,6 @@ We recommend working through the files in the order below:
 4. [Destructuring Arrays](modern_javascript_exercises/destructuring_arrays/destructuring_arrays.md)
 
 5. [Destructuring Objects](modern_javascript_exercises/destructuring_objects/destructuring_objects.md)
-   // NEXT:
 
 6. [Rest Parameters](modern_javascript_exercises/rest_parameters/rest_parameters.md)
 
@@ -37,7 +36,7 @@ We recommend working through the files in the order below:
 
 9. [Ternaries](modern_javascript_exercises/ternaries/ternaries.md)
 
-10. [Imperative vs Declarative Programming](modern_javascript_exercises/declarative_vs_imperative/declarative_vs_imperative.md)
+10. [Imperative vs Declarative Programming](modern_javascript_exercises/imperative_vs_declarative/imperative_vs_declarative.md)
 
 ## Getting started
 

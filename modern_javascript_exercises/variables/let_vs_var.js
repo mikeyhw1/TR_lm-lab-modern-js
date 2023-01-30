@@ -2,7 +2,7 @@
 
 // Problems with var
 
-function count() {
+const count = () => {
   for (let i = 0; i < 5; i++) {
     console.log(i + " inside the forLoop");
   }
